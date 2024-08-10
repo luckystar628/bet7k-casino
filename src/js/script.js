@@ -137,7 +137,7 @@ $('#show-more').click(function () {
 	$('#show-more').css('display', 'none');
 	setTimeout($('html').height('100%'), 500);
 });
-
+https://github.com/luckystar628/portfolio_luckystar.git
 $('#hide-more').click(function () {
 	$('.more-projects').css('display', 'none');
 	$('#show-more').css('display', 'block');
